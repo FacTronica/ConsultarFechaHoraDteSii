@@ -14,3 +14,12 @@
 <br>
 <hr>
 <h3>Proceso 2: Enviar Archivo Plano</h3>
+<br>El archivo txt se debe enviar al webservice c
+<br>En Linux:
+<br>curl --form "archivotxt=@archivo_plano.txt"  http://190.107.177.113/~apifactronica/factronica_aceptareclama_servidor/recibe_txt_aceptareclama.php
+<br>
+<br>En Windows:
+c:\curl\curl.exe --form "archivotxt=@archivo_plano.txt" http://190.107.177.113/~apifactronica/factronica_aceptareclama_servidor/recibe_txt_aceptareclama.php
+<br>
+<hr>
+<h3>Proceso 2: Enviar Archivo Plano</h3>
