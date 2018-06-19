@@ -28,8 +28,8 @@
 <br>
 <br>
 <br><b>Linux:</b>
-
-
+<br>curl -o estadodte_rut111111111_tipo33_folio123123.xml http://190.107.177.113/~apifactronica/factronica_aceptareclama_servidor/recibe_txt_aceptareclama.php/temp/estadodte_rut111111111_tipo33_folio123123.xml
+<br>
 <br>
 <br><b>En Windows:</b>
-
+<br>c:\curl\curl.exe -o c:\curl\estadodte_rut111111111_tipo33_folio123123.xml http://190.107.177.113/~apifactronica/factronica_aceptareclama_servidor/recibe_txt_aceptareclama.php/temp/estadodte_rut111111111_tipo33_folio123123.xml
