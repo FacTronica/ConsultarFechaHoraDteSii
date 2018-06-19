@@ -1,5 +1,6 @@
 # ConsultarFechaHoraDteSii
 <br>Webservice para obtener la fecha y hora en que un dte fue recibido y aceptado por el SII Chile.
+<br>En este caso y como ejemplo se utilizará con Factura tipo 33 Folio 123123 Rut Emisor 11111111-1.
 <br>
 <br>A continuación se detalla el Procedimiento a realizar:
 <br>
