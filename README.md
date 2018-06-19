@@ -15,11 +15,21 @@
 <hr>
 <h3>Proceso 2: Enviar Archivo Plano</h3>
 <br>El archivo txt se debe enviar al webservice utilizando curl.
+<br>
 <br><b>Linux:</b>
 <br>curl --form "archivotxt=@archivo_plano.txt"  http://190.107.177.113/~apifactronica/factronica_aceptareclama_servidor/recibe_txt_aceptareclama.php
 <br>
 <br><b>En Windows:</b>
-c:\curl\curl.exe --form "archivotxt=@archivo_plano.txt" http://190.107.177.113/~apifactronica/factronica_aceptareclama_servidor/recibe_txt_aceptareclama.php
+<br>c:\curl\curl.exe --form "archivotxt=@c:\curl\archivo_plano.txt" http://190.107.177.113/~apifactronica/factronica_aceptareclama_servidor/recibe_txt_aceptareclama.php
 <br>
 <hr>
 <h3>Proceso 3: Recuperar Archivo Xml con Respuesta:</h3>
+<br>En este proceso se recupera el archivo xml con el resultado entregado por el sii.
+<br>
+<br>
+<br><b>Linux:</b>
+
+
+<br>
+<br><b>En Windows:</b>
+
