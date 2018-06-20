@@ -8,6 +8,10 @@ $FACTRONICA["dvEmisor"]="1";
 $FACTRONICA["tipoDoc"]="33";
 # FOLIO DEL DTE
 $FACTRONICA["folio"]="1111";
+# DEBE IR VACIO
+$FACTRONICA["accionDoc"]="";
+# METODO A EJECUTAR 2=CONSULTARFECHAHORA
+$FACTRONICA["Metodo"]="2";
 ###################################  DATOS DE COMUNICACION ##################
 # AMBIENTE 0=PRUEBAS 1=PRODUCCION
 $FACTRONICA["PRODUCCION"]="1";
